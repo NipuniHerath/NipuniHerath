@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipuniherath&label=Profile%20views&color=0e75b6&style=flat" alt="nipuniherath" /> </p>
-
+[![wakatime](https://wakatime.com/badge/user/7bb83345-97d4-45f6-9fb8-c8a322ec2f1b.svg)](https://wakatime.com/@7bb83345-97d4-45f6-9fb8-c8a322ec2f1b)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipuniherath" alt="nipuniherath" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
